@@ -1,0 +1,19 @@
+{
+    "bank_info": {
+        "bank_name": "Zenith Bank",
+        "account_name": "Samaila Musa Ahmadu",
+        "account_number": "22518873734",
+        "acct_status": "silver",
+        "user_id": "5484425"
+    },
+    "personal_info": {
+        "full_name": "Samaila Musa Ahmadu",
+        "email": "sam@gmail.com",
+        "phone_1": "0907777777",
+        "phone_2": "0903636363462",
+        "address": "billiri Gombe sate",
+        "img": "..\/..\/img.url",
+        "acct_status": "silver",
+        "user_id": "5484425"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "bank_info": {
+        "bank_name": "GTB Bank",
+        "account_name": "my personal name",
+        "account_number": "3120563910",
+        "acct_status": "silver",
+        "user_id": "4595122"
+    },
+    "personal_info": {
+        "full_name": "Koji James",
+        "email": "koji@gmail.com",
+        "phone_1": "+123456787654",
+        "phone_2": "+123456787654",
+        "address": "samaru zaria deraka",
+        "img": "..\/..\/img.url",
+        "acct_status": "silver",
+        "user_id": "4595122"
+    }
+}

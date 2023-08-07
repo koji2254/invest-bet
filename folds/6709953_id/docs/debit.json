@@ -1,0 +1,78 @@
+[
+    {
+        "bank_info": {
+            "bank_name": "Zenith Bank",
+            "account_name": "Gracia James",
+            "account_number": "3009359221",
+            "acct_status": "silver",
+            "user_id": "6709953"
+        },
+        "personal_info": {
+            "full_name": "Grace James Koji",
+            "email": "grace@gmail.com",
+            "phone_1": "07088888888",
+            "phone_2": "",
+            "address": "Abuja Road",
+            "img": "..\/..\/img.url",
+            "acct_status": "silver",
+            "user_id": "6709953"
+        },
+        "withdraw_details": {
+            "user_id": "6709953",
+            "invoice_id": 1222266,
+            "request_amt": "",
+            "request_method": "transfer",
+            "date": 2023
+        },
+        "user_id": "6709953",
+        "invoice_id": 1222266,
+        "status": {
+            "invoice_status": "Not Sent",
+            "invoice_type": "withdraw",
+            "turn_btn": "disabled",
+            "style": "link-btn-3",
+            "msg_status": "It might take some time",
+            "msg_error": "",
+            "deliverd": "",
+            "btn_msg": "Wait approval"
+        }
+    },
+    {
+        "bank_info": {
+            "bank_name": "Zenith Bank",
+            "account_name": "Gracia James",
+            "account_number": "3009359221",
+            "acct_status": "silver",
+            "user_id": "6709953"
+        },
+        "personal_info": {
+            "full_name": "Grace James Koji",
+            "email": "grace@gmail.com",
+            "phone_1": "07088888888",
+            "phone_2": "",
+            "address": "Abuja Road",
+            "img": "..\/..\/img.url",
+            "acct_status": "silver",
+            "user_id": "6709953"
+        },
+        "withdraw_details": {
+            "user_id": "6709953",
+            "invoice_id": 1847031,
+            "request_amt": "",
+            "request_method": "transfer",
+            "date": 2023
+        },
+        "user_id": "6709953",
+        "invoice_id": 1847031,
+        "status": {
+            "invoice_status": "Not Sent",
+            "invoice_type": "withdraw",
+            "turn_btn": "disabled",
+            "style": "link-btn-3",
+            "msg_status": "It might take some time",
+            "msg_error": "",
+            "deliverd": "",
+            "btn_msg": "Wait approval"
+        }
+    }
+]
